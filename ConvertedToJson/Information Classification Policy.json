@@ -1,0 +1,148 @@
+{
+    "pages": [
+        {
+            "page_number": 1,
+            "content": ""
+        },
+        {
+            "page_number": 2,
+            "content": ""
+        },
+        {
+            "page_number": 3,
+            "content": ""
+        },
+        {
+            "page_number": 4,
+            "content": ""
+        },
+        {
+            "page_number": 5,
+            "content": ""
+        },
+        {
+            "page_number": 6,
+            "content": ""
+        },
+        {
+            "page_number": 7,
+            "content": ""
+        },
+        {
+            "page_number": 8,
+            "content": ""
+        },
+        {
+            "page_number": 9,
+            "content": ""
+        },
+        {
+            "page_number": 10,
+            "content": ""
+        },
+        {
+            "page_number": 11,
+            "content": ""
+        },
+        {
+            "page_number": 12,
+            "content": ""
+        },
+        {
+            "page_number": 13,
+            "content": ""
+        },
+        {
+            "page_number": 14,
+            "content": ""
+        },
+        {
+            "page_number": 15,
+            "content": ""
+        },
+        {
+            "page_number": 16,
+            "content": ""
+        },
+        {
+            "page_number": 17,
+            "content": ""
+        },
+        {
+            "page_number": 18,
+            "content": ""
+        },
+        {
+            "page_number": 19,
+            "content": "= APA = AwashBank Circular No. 49/2023 To: - All Chief Officers - All D/Chief Officers - All Directors and D/Directors - All Regional Directors - All Branch Managers From: Chief Executive Officer Date: April 11, 2023 od Subject:- Information Classification Policy Please find enclosed herewith the Information Classification Policy for your perusal and implementation. Softcopy of the Information Classification Policy shall be distributed through the Office of D/Chief, Strategy Innovation & Transformation Officer. The Policy shall be put in force effective immediately. All recipients of this Circular shall, therefore, ensure that the Policy is thoroughly read, understood and properly implemented. Thank you. Encl:- Information Classification Policy Tel.: +251-0115-57-00-65/66 Fax: -0115-57-01-26 | Email:tsehayf@awashbank.com"
+        },
+        {
+            "page_number": 20,
+            "content": "APTI VIA = AwashBank Nurturing Like the River Awash Bank Information Security Policy Section 14: Information Classification Policy April 2023 + LS"
+        },
+        {
+            "page_number": 21,
+            "content": "Awash Bank Internal Information Title Code Classification Version Status Information Classification AB_ISMS_ISATEP_DOC _ Internal 1.0 Policy Revision History Version Author(s) Issue Date Changes 1.0 Awash Bank April 26, 2023 First version Review, Verification and Approval Name Job Title Date Signature Distribution List Copy# Recipients Location Information Classification Policy Page 2 of 17"
+        },
+        {
+            "page_number": 22,
+            "content": "Awash Bank Internal Table of contents 1, TERMS AND DEFINITIONS .....ccsssssssssssessssssscessessueessecssecsssccssssavsessece 4 2. INTRODUCTIO 3. PURPOSE ovecssccssssssssssssssssssssssssssssenssessnnssssscassessnuutssnesssssnssnsseesecsssesesesesssenssssescessesucessessssssssssssssssaseceeees 6 4. 6. 7. 7.1. ORGANIZATIONAL STRUCTURE... 7.2, ROLES AND RESPONSIBILITIES 8. INFORMATION CLASSIFICATION oesssssssssssssssssssssssssssseesssssssssstssstussensesnsesssssssssssssasesessessssesseeueseceee 9 8.1. POLICY STATEMENT ..0..scccsessscsssscsecssessesssvesuscsnecssecaseceses 8.2. POLICY DETAILS 82.1. Classification Criteria. 8.2.2. Confidentiality Levels... 8.2.3. List of Authorized Persons: seessesesssessssssseesseereessne 8.2.4. Handling Classified Information 8.2.5; Data MASKING veceseescescsssessesesseene 8.2.6. Information Labeling ..eccccssssssssessssssesssssssssssrecs 8.2.7. Reclassification 8.3. POLICY IMPLEMENTATION 8.4. POLICY VIOLATION.. 8.5. POLICY EXCEPTION.. 8.6. POLICY OWNER AND CUSTODIAN 8.7, POLICY ACCESS AND COMMUNICATION 9. MANAGING RECORDS KEPT ON THE BASIS OF THIS DOCUMENT 10. 10. 10.2, REPEAL AND REPLACEMENT 10.3. EFFECTIVE DATE OF THE POLICY 1. REVISION OF THE POLICY v.sesesssssscscscsssssssssssssssssssssecsssssssssssssssssssssrsstisiiseessesesesessssseees a = = \\ \\ Information Classification Policy Page 3 of 17 |, AwashBan"
+        },
+        {
+            "page_number": 23,
+            "content": "Awash Bank Internal 1. Terms and Definitions Table | provides definitions of the common terms used in this document Term Definition Accountability A security principle indicating that individuals shall be able to be identified and to be held responsible for their actions. Asset Anything that has value to the organization (primary assets: information, business processes and activities; supporting assets: hardware, software, network, personnel, site, organization s structure). Asset Owner A person or group of people who have authority for specified information asset, responsible for making sure that information assets are properly classified, protected and accessed appropriately, as a result that the value of the asset is fully exploited. The Owner may change during the lifecycle of the asset. Asset Custodian A person or group of people that are designated or delegated by the asset owner, having responsibility for the implementation and maintenance of the confidentiality, availability and integrity of an information asset. Availability The state of an asset or a service of being accessible and usable upon demand by an authorized entity. Business Owner A person or group of people who have authority for specified information asset, responsible for making sure that information assets are properly classified, protected and accessed appropriately, as a result that the value of the asset is fully exploited. A person or group of business specialists, who need to document what the business services are, how they are delivered and what applications contribute to creating client value. Ensure that it has adequate security controls based on the classification and define risk appetite. Confidentiality An asset or a service is not made available or disclosed to unauthorized individuals, entities or processes. Control A means of managing risk, including policies, procedures, and guidelines which can be of administrative, technical, management or legal nature. Guideline A description that clarifies what shall be done and how, to achieve the objectives set out in policies. Incident An information security incident is indicated by a single or a series of unwanted or unexpected information security events that have a significant probability of compromising business operations and threatening information security. Information The preservation of confidentiality, integrity, and availability of information. Additionally, other Security properties such as authenticity, accountability, non-repudiation and reliability can also be involved. Integrity Maintaining and assuring the accuracy and consistency of asset over its entire life-cycle. Labelling Affixing a physical or electronic label identifying the security category of a document, file or records series in order to alert those who handle it that it requires protection at the applicable level. Policy A plan of action to guide decisions and actions. The policy process includes the identification of different alternatives such as programs or spending priorities, and choosing among them on the basis of the impact they will have. Record Information created, received and maintained as evidence and : an LE NWA GS > ora A Risk A combination of the consequences of an event (inclu ig-changes in cifcumstanges) and the associated likelihood of occurrence. \\ \\\\_ Soyer Information Classification Policy \\\\ Page 4 of 17"
+        },
+        {
+            "page_number": 24,
+            "content": "Awash Bank Internal System An equipment or interconnected system or subsystems of equipment that is used in the acquisition, storage, manipulation, management, control, display, switching, interchange, transmission or reception of data and that includes computer sofiware, firmware and hardware. Table 1: Terms and Definitions Information Classification Policy Page 5 of 17"
+        },
+        {
+            "page_number": 25,
+            "content": "Awash Bank Internal 2. Introduction Protecting sensitive information of the bank such as client s data, employee s data and the likes are the paramount activities which are routinely practiced to prevent sensitive information of the bank fall into the wrong hands. So, it is crucial to the bank to ensure the security and integrity of information at all times. 3. Purpose The purpose of information classification policy is to ensure that information receives an appropriate level of protection in accordance with its importance to the bank, and prevent unauthorized disclosure, modification, removal or destruction of information. 4. Scope of Applicability This policy document is applied to the entire Information Security Management System (ISMS) scope, i.e. to all types of information, regardless of the form paper or electronic documents, applications and databases, etc. 5. Users Users of this document are all employees of Awash Bank and relevant external parties. 6. Reference and related documents ISO/IEC 27001 Standard INSA National Cyber Security Framework Development Methodology Awash Bank Information Security Policy Awash Bank Information Security Risk Management Policy Awash Bank Information Systems Asset Management Policy Awash Bank Access Control Policy Awash Bank Information Security Incident Management Policy Awash Bank Acceptable Use Policy Awash Bank Operations Security Policy E Awash Bank Supplier and Partner Asletionsnlps Security 7 Fe moe naogs ae Sone iets > - = p n = jee] 2 5 wn n fa) fe) i=] 5 Q n x wn a oO 3 QP =! as wn =p = 2 5 oO > es fe} 2 S. GB x fe) iss oO ao) Powe oO ms eo og 3 o 3 B 2 3 a. 3 ar = = oO oO Policy 1. Awash Bank Human Resource Security Policy Information Classification Policy"
+        },
+        {
+            "page_number": 26,
+            "content": "Awash Bank Internal 7. Organizational Structure, Roles and Responsibilities The organization structure, roles and responsibilities of various organs of the Bank in relation to Information Classification activities are indicated below. 7.1.Organizational Structure Board of Directors Chief Executive Officer cuneate scl Chief Internal Audit Officer Chief Legal Services Officer Advisory Office Senior Chief Enterprise Risk and Compliance Officer Director, Ethics and Anti- Corruption Senior Chief Information Officer Chief IT Service Management Officer Di rector, IT Strategy and Innovation Director, Core Application & Digital Channel Management Director, Program Management Director, Information Security Management Director, IT Services Delivery Director, IT Infrasturacture Management Information Classification Policy : Page 7 of 17"
+        },
+        {
+            "page_number": 27,
+            "content": "Awash Bank Internal 7.2.Roles and Responsibilities F201 {22 7.2.3 7.24 7.2.5 7.2.6 7.2.7 7.2.8 Information Security Management Directorate is responsible in: a. Detecting and responding to information security violations, security breaches and vulnerabilities. b. Monitoring compliance with information security polices and best practices. Developing and establishing policies and procedures that ensure protection of information assets. IT Infrastructure Management Directorate is responsible for maintaining and updating an asset inventory of Awash Bank s assets. Information Security Steering Committee is responsible for conducting and managing information security risk management activities. Business Owner / Asset Owner is responsible for classification of information in accordance with the rules prescribed in this policy document. Asset Custodian is responsible for: a. Implementing appropriate controls to protect the confidentiality, integrity, availability and authenticity of sensitive information. b. for applying security measures in protecting removable storage media. Asset Custodian with approval of Asset Owner is responsible for managing and updating sensitive information of the bank. Asset Custodian, with concerned Stakeholders if applicable is responsible for disposing unused information in a secure way. All users are responsible: a. to adhere to information security policies and procedures pertaining to the protection of information. gi aw b. for reporting actual or suspected informatj security inciden Security Management Directorate. ; Information Classification Policy Page 8 of 17"
+        },
+        {
+            "page_number": 28,
+            "content": "Awash Bank Internal 8. Information Classification 8.1.Policy Statement Accurate, timely, relevant, and proper classification of information is a critical input for the Bank s effective operations and clients robust service provisioning. To this end, Awash Bank is highly committed in ensuring a proper and secure classification of information at all times. Awash Bank recognizes that failure to implement adequate security controls over sensitive information could potentially lead to: irretrievable loss of important information; loss of data integrity or reliability; serious financial consequences; damage to the reputation and/or regulatory and legal penalties. So, it is imperative to define and enforce a secure information classification, hence this policy. 8.2.Policy Details 8.2.1. Classification Criteria 8.2.1.1.The level of confidentiality shall be determined based on the following criteria: a. The Value of Information - shall be based on impacts assessed during risk assessment. b. The Sensitivity and Criticality of Information - shall be based on the highest risk calculated for each information item during risk assessment. c. Legal and Contractual Obligations - shall be based on the list of legal, regulatory and other obligations. 8.2.2. Confidentiality Levels 8.2.2.1.All information shall be classified into the following confidentiality levels: Confidentiality Labeling Classification Criteria Access Restriction Level Public PUBLIC Making the information public cannot | Information is available harm the bank in any way. to the public Internal Use INTERNAL USE Unauthorized access to information Information is available may cause minor damage and/or to all employees and inconvenience (i.e. limited disruption | selected third parties of the bank s operation, minor damage to reputation and trust) to the bank. Restricted RESTRICTED Unauthorized access to information Information is available may considerably damage (i.e. only to a specific group multiple branch offices or multiple of employees and business units affected by the authorized third parties incident, moderate damage to reputation and trust) and/or the bank s r Information Classification Policy Page 9 of 17"
+        },
+        {
+            "page_number": 29,
+            "content": "Awash Bank Internal | Confidential CONFIDENTIAL | Unauthorized access to information _ | Information is available may cause catastrophic damage (i.e. only to individuals in the significant damage to reputation and bank. trust, exposition to lawsuits, payment to damage to affected parties, high public relation and communication costs) to business and/or to the organization s reputation. 8.2.2.2.The basic rule shall be to use the lowest confidentiality level ensuring an appropriate level of protection, in order to avoid unnecessary protection costs. 8.2.2.3.Any unlabeled information shall be classified by default as confidential until properly classified and labeled. 8.2.3. List of Authorized Persons: 8.2.3.1.Information classified as Restricted and Confidential shall be accompanied by a list of authorized persons in which the information owner specifies the names or job functions of persons who will have the right to access that information. 8.2.3.2. The same rule shall applies to the confidentiality level Internal Use if people outside the bank will have access to such document. 8.2.4. Handling Classified Information 8.2.4.1.All persons accessing classified information shall follow the rules listed in the following table. HR Operations Directorate shall initiate disciplinary action each time the rules are breached or if the information is communicated to unauthorized persons. Asset categories | Internal Use Restricted Confidential Paper 1. If sent outside the 1. The document shall be stored | 1. The document shall be Documents bank, the document in a locked cabinet stored in a safe shall be sent as 2. Documents shall be 2. The document shall be registered mail transferred within and outside transferred within and 2. Documents shall only the Bank only in a closed outside the bank only by a be kept in rooms envelope trustworthy person in a without public access. | 3. If sent outside the Bank, the closed and sealed 3. Documents shall be document shall be mailed with envelope frequently removed areturn receipt service 3. Faxing the document shall from printers or fax 4. Documents shall immediately not be allowed machines be removed from printer or fax | 4. The document shall be machines printed out only if the 5. Only the document owner authorized person is shall copy the docume) Information Classification Policy"
+        },
+        {
+            "page_number": 30,
+            "content": "Awash Bank Internal Only the document owner shall destroy the document Electronic Documents Access to the information system where the document is stored shall be protected by a strong password The screen on which the document is displayed shall be automatically locked after 5 minutes of inactivity Access to the information system where the document is stored shall be protected by a two factor authentication When files are exchanged via services such as FTP, instant messaging, etc., they shall be password protected Only the document owner shall erase the document The document shall be stored in encrypted form Access to the information systems where the document is stored shall be protected by two factor authentication using smart cards, tokens, or biometric readers The document shall be stored only on servers which are controlled by the Bank When files are exchanged via services such as FTP, instant messaging, etc., they shall be encrypted Only the document owner shall erase the document Information Systems Access to the information system shall be protected by a strong password The screen shall be automatically locked after 5 minutes of inactivity. The information system shall only be located in rooms with controlled physical access Access to the information system shall be controlled through a two-factor authentication Users shall log out of the information system if they have temporarily or permanently left the workplace Data shall be erased only with an algorithm which ensures secure deletion The information system shall only be located in rooms with controlled physical access Access to the information system shall be controlled through a two factor authentication using smart cards, tokens, or biometric readers The information system shall only be installed on servers controlled by the Bank The information system shall only be located in rooms with controlled physical access and identify control of people accessing the room Electronic Mail The sender shall carefully check the recipient All applicable rules stated under information systems apply E-mail shall be encrypted if, sent outside the bank The sender shall carefully check the recipient All applicable rules stated under Information Systems apply All E-mails shall be encrypted The sender shall carefully check the recipient All applicable rules stated under Information Systems apply Electronic Storage Media Media or files shall be password protected If sent outside the Bank, the medium Files on the Media shall be encrypted Media shall be store: Files on the Media shall be encrypted Media shall be stored in a safe Ipcked cabinee . Information Classification Policy Page 11 of 17"
+        },
+        {
+            "page_number": 31,
+            "content": "Awash Bank Internal shall be sentas *|:-3._If' sent outside the Bank, the 3. Media shall be transferred registered mail medium shall be mailed with a within and outside the 3. The medium shall only return receipt service Bank only by a be kept in rooms with | 4. Only the medium owner shall trustworthy person in a controlled physical erase or destroy the medium closed and sealed access envelope 4. Only the medium owner shall erase or destroy the medium Information 1. Unauthorized persons 1. The room shall be soundproof | 1. The room shall be transmitted shall not be present in | 2. The conversation shall not be soundproof orally the room when the recorded 2. Conversation conducted information is through a communication communicated channel (e.g... online call) shall be encrypted 3. The conversation shall not be recorded 4. No transcript of the conversation shall be kept 8.2.5. Data Masking 8.2.5.1.If the asset owner decides that data exposure is a concern (e.g., personally identifiable 8.2.6. 8.2.6.1. information, trade secrets, etc.), the information classification shall be at least RESTRICTED , and the following additional rules shall be applied to prevent the data from being displayed: a. Information on paper media: data not needed by the user shall be masked by means of data deletion or data concealment (e.g.,. by covering the text with a black stripe). b. Information systems or digital documents: data not needed by the user shall be masked by means of data concealment or data substitution (replacing the sensitive data with non-sensitive data). Information Labeling Confidentiality level shall be labeled in the following way: a. Paper documents the confidentiality level shall be indicated in the top right corner of each document page; it shall be also indicated on the front of the cover or envelope carrying such a document as well as on the filing folder in which the document is stored. b. Electronic Documents the confidentiality level is indicated in the top right corner of each document page. c. Information Systems the confidentiality le applications and databases shall be configured and indicated when accessif @-and using thegyst ms. d. Electronic Mail the confidentiality leyeFshall be in din the e-mail body. Information Classification Policy Page 12 of 17"
+        },
+        {
+            "page_number": 32,
+            "content": "Awash Bank Internal e. Electronic Storage Media (disks, memory cards, etc.) the confidentiality level shall be indicated on the top surface of such a medium. f. Information transmitted orally the confidentiality level of confidential information to be transmitted in face-to-face communication, by telephone or some other means of communication, shall be communicated prior to the information itself. 8.2.7. Reclassification 8.2.7.1.Asset owners shall review the confidentiality level of their information assets every two years and assess whether the confidentiality level can be changed. If possible, the confidentiality level shall be lowered or escalated. 8.2.7.2.All bank s employees shall gomply with level defined above. : Information Classification Policy Page 13 of 17"
+        },
+        {
+            "page_number": 33,
+            "content": "Awash Bank Internal 8.3.Policy implementation 8.3.1. When required, detailed procedure document shall be prepared to support the implementation of this policy. 8.4.Policy Violation All employees of Awash Bank are required to ensure adherence to the highest level of professional ethics those are promulgated on the Bank s Information security policy standard and articulated herein. However, Non-compliance to the minimum requirements or violation of this policy may institute disciplinary action based on the respective Human Resource Policy and related Human Resource Security Policy that includes, but is not limited to, the following: e Suspension; e Termination; e Civil and/or criminal prosecution; e Other disciplinary action. e Pursuing of an appropriate legal action under local, state or federal law. Any vendor, consultant, or contractor found to have violated this policy may be subject to sanctions up to and including removal of access rights, termination of contract(s), and related civil or criminal penalties. 8.5.Policy Exception 8.5.1 Exceptional cases related to the service interruption should be approved by the CEO. 8.5.2 Exceptional cases related to emergency should be approved by the Senior CIO with the immediate reporting to the CEO. 8.5.3 All other exceptions, shall be approved by the Board of Directors (BoD). 8.6.Policy Owner and Custodian 8.6.1 The owner of this policy is the Bank. 8.6.2. The custodian of this policy shall be Information Security Steering Committee. 8.7.Policy Access and Communication 8.7.1 This policy document is internal document of the Bank and is meant for internal usage within the bank. Duplication and distribution of this policy without an authorized release is prohibited. 8.7.2. Transformation & Change Manag ment directorate Shall decide on the number of copies that should be in circulation and the persons with whom the document should be available. \\ Information Classification Policy Page 14 of 17"
+        },
+        {
+            "page_number": 34,
+            "content": "Awash Bank Internal 8.7.3. Transformation & Change Management Directorate has to ensure that all employees of Awash Bank and other relevant external parties are familiar with this policy. 8.7.4 Information Security Management Directorate is responsible for training and raising awareness of persons using this policy. 8.7.5 Every Person in custody of this document has the responsibility for ensuring its usage limited to within Awash Bank . Any loss or mutilation of the document must be reported promptly to the Information Security Management Directorate... y : Information Classification Policy Page 15 of 17"
+        },
+        {
+            "page_number": 35,
+            "content": "Awash Bank Internal 9. Managing records kept on the basis of this document Record name Storage location | Person Controls for record Retention responsible | protection time for storage List of Auhtorized Asset Owner Asset Owner | The same as for the The list Persons with access to | computer / protection of must exist as documents cabinet information long as the information itself exists Information Security | Information Information Only Information 3 Years Incident Response Security Security Security Management record Management Management | Directorate can publish Directorate Directorate and edit. computer / eabinet Read access to other is in need to know basis only NDA record for Asset Owner Asset Owner | Only Asset Owner can | Based on the handling confidential | computer/cabinet publish and edit agreement information Read access to other is in need-to-know basis only Malware protection | Policy Violation HR Operations HR Only HR Operations 5 year Record Directorate Operations Directorate can publish computer/cabinet | Directorate and edit Read access to other is in need-to-know basis only Malware protection Policy Exception Asset Asset Only Asset Custodian | 5 year Record Custodian's Custodian can publish and edit computer / cabinet Read access to other is in need-to-know basis only __.._ | Malware protection LE ne wet : Only Asset Custodian can grant other employees meso any of the above mentioned documents. \\2 Information Classification Policy Page 16 of 17"
+        },
+        {
+            "page_number": 36,
+            "content": "Awash Bank Internal 10. Policy Revision, Repeal, Replacement, and Effective Date 10.1. Revision of the Policy Unless there is a special enforcement to revise this Policy in the meantime, it shall be revised every three years and approved by the Board of Directors. The Information Security Steering Committee shall initiate and manage the revision of this Policy. 10.2. Repeal and Replacement Any Information Security Policy of the Bank contravening this Policy, if any, are hereby repealed and replaced by this Policy. 10.3. Effective Date of the Policy This Information Classification Policy shall be in force effective from End of Document Information Classification Policy Page 17 of 17"
+        }
+    ]
+}
